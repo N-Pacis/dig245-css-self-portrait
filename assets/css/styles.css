@@ -104,7 +104,7 @@ body{
     left: 455.5px;
     width: 70.35px;
     height: 87.86px;
-    rotate: -42.48deg;
+    transform: rotate(-42.48deg);
     z-index: 3;
 }
 
@@ -115,7 +115,7 @@ body{
     width: 79.43px;
     height: 68.88px;
     z-index: 3;
-    rotate: 32.9deg;
+    transform: rotate(32.9deg);
 }
 
 .left-eye-eyebrow{
@@ -192,7 +192,7 @@ body{
     width: 23.74px;
     height: 60.56px;
     clip-path: polygon(53% 100%, 1% 54%, 17% 13%, 54% 0%, 61% 47%);
-    rotate: 180deg;
+    transform: rotate(180deg);
 }
 
 .left-beard{
